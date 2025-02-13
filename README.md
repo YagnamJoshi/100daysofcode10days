@@ -38,13 +38,11 @@ This repository contains the stuff learnt and code written, during 10 days of le
 
 ## Day 7
 #### Learnt :
-
-#### File : 
-
+Functions, code blocks and while loop
 
 ## Day 8
 #### Learnt :
-
+Functions with inputs
 #### File : 
 
 
