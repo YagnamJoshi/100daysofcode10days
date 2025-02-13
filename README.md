@@ -26,7 +26,7 @@ This repository contains the stuff learnt and code written, during 10 days of le
 
 ## Day 5 
 #### Learnt :
-
+For loops, range and code blocks 
 #### File : 
 
 
