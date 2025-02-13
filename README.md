@@ -2,25 +2,25 @@
 This repository contains the stuff learnt and code written, during 10 days of learning python on https://www.udemy.com/course/100-days-of-code/
 ## Day 1 
 #### Learnt :
-
+Printing, commenting, Debugging, string manipulation
 #### File : 
 
 
 ## Day 2
 #### Learnt :
-
+Data types, Numbers, Operations, Type conversion, f-string
 #### File : 
 
 
 ## Day 3
 #### Learnt :
-
+Control flow and logical operators.
 #### File : 
 
 
 ## Day 4
 #### Learnt :
-
+Randomisation and python list
 #### File : 
 
 
