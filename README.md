@@ -1,15 +1,59 @@
 # 100daysofcode10days
 This repository contains the stuff learnt and code written, during 10 days of learning python on https://www.udemy.com/course/100-days-of-code/
 ## Day 1 
-Learnt 
+#### Learnt :
+
+#### File : 
+
+
 ## Day 2
+#### Learnt :
+
+#### File : 
+
+
 ## Day 3
+#### Learnt :
+
+#### File : 
+
+
 ## Day 4
+#### Learnt :
+
+#### File : 
+
+
 ## Day 5 
+#### Learnt :
+
+#### File : 
+
+
 ## Day 6
+#### Learnt :
+
+#### File : 
+
+
 ## Day 7
+#### Learnt :
+
+#### File : 
+
+
 ## Day 8
+#### Learnt :
+
+#### File : 
+
+
 ## Day 9 
+#### Learnt :
+
+#### File : 
+
+
 ## Day 10
 #### Learnt :
 Functions with Outputs 
