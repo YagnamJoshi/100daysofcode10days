@@ -32,13 +32,14 @@ This repository contains the stuff learnt and code written, during 10 days of le
 
 ## Day 6
 #### Learnt :
-
-#### File : 
-
+Functions, code blocks and while loop
 
 ## Day 7
 #### Learnt :
-Functions, code blocks and while loop
+Hangman project
+
+#### File : 
+
 
 ## Day 8
 #### Learnt :
