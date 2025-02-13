@@ -11,5 +11,7 @@ Learnt
 ## Day 8
 ## Day 9 
 ## Day 10
-Learnt :Functions with Outputs
-File : Day 10/python_calc.py
+#### Learnt :
+Functions with Outputs 
+#### File : 
+https://github.com/YagnamJoshi/100daysofcode10days/blob/d8c0620d2ee71ccdae81b0f02994e8de60ac1eb4/Day%2010/python_calc.py
